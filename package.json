@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik1799/namastereact.git"
+  },
+  "author": "kartikgoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartik1799/namastereact/issues"
+  },
+  "homepage": "https://github.com/kartik1799/namastereact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
